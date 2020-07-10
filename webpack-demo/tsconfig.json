@@ -3,7 +3,7 @@
     "outDir": "./dist/",
     "noImplicitAny": true,
     "module": "es6",
-    "target": "esnextß",
+    "target": "esnext",
     "jsx": "react",
     "allowJs": true,
     "allowSyntheticDefaultImports": true,
