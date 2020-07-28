@@ -1,0 +1,23 @@
+{
+  "name": "learningweb",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "webpack --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/illiapelypenko/learningweb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/illiapelypenko/learningweb/issues"
+  },
+  "homepage": "https://github.com/illiapelypenko/learningweb#readme",
+  "devDependencies": {
+    "webpack": "^4.44.0",
+    "webpack-cli": "^3.3.12"
+  }
+}

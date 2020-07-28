@@ -1,10 +1,10 @@
 const myObject = {
   myArrowFunction: null,
-  myMethod: function() {
+  myMethod: function () {
     this.myArrowFunction = () => {
       console.log(this);
     };
-  }
+  },
 };
 
 myObject.myMethod(); // this === myObject
