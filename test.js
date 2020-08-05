@@ -1,2 +1,1 @@
-let a = setTimeout(() => {});
-console.log(a);
+fetch('https://jjsonplaceholder.typicode.com/users').then(res => console.log(res)).catch(err => console.log(err));

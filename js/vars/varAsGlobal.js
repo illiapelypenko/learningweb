@@ -1,4 +1,4 @@
-// works in browser, doesn't in node
+// works in browser, doesn't in node as this is undefined
 
 var data = [
   { name: "Samantha", age: 12 },
